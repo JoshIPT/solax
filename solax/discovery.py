@@ -4,18 +4,7 @@ import typing
 
 from solax.inverter import Inverter, InverterError
 from solax.inverters import (
-    QVOLTHYBG33P,
-    X1,
-    X3,
-    X3V34,
-    X1Boost,
-    X1HybridGen4,
-    X1Mini,
-    X1MiniV34,
-    X1Smart,
-    X3HybridG4,
-    X3MicProG2,
-    XHybrid,
+    X1Smart
 )
 
 # registry of inverters
