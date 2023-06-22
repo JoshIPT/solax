@@ -9,18 +9,7 @@ from solax.inverters import (
 
 # registry of inverters
 REGISTRY = [
-    XHybrid,
-    X3,
-    X3V34,
-    X3HybridG4,
-    X1,
-    X1Mini,
-    X1MiniV34,
-    X1Smart,
-    QVOLTHYBG33P,
-    X1Boost,
-    X1HybridGen4,
-    X3MicProG2,
+    X1Smart
 ]
 
 
